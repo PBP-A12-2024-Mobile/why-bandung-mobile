@@ -25,21 +25,21 @@ Tim A12SITEK memilih Kota Bandung karena dikenal sebagai kota wisata yang popule
   <summary>ii. Daftar modul yang akan diimplementasikan  beserta pembagian kerja per anggota</summary>
 1. Dashboard - Karina Maharani<br>  
 Section Home<br>
-Features:<br>
-- Navigation hub, link ke modul-modul lain.<br>
-- Landing Page yang membaca data, memiliki Link-link ke product highly-rated, dan banner ke modul lainnya <br>
-- Search bar yang tersambung dengan modul search system.<br><br>
+Features:  
+- Navigation hub, link ke modul-modul lain.  
+- Landing Page yang membaca data, memiliki Link-link ke product highly-rated, dan banner ke modul lainnya  
+- Search bar yang tersambung dengan modul search system.  
 
 Rincian regulasi aturan khusus:
-- Responsive Framework: Tailwind atau Bootstrap memastikan tampilan tetap ramah mobile.
-- Forms: Memiliki form aksi cepat (misalnya, searchbar).
-- Product Filtering: Menyaring restoran atau hidangan berdasarkan preferensi.
+- Responsive Framework: Tailwind atau Bootstrap memastikan tampilan tetap ramah mobile.  
+- Forms: Memiliki form aksi cepat (misalnya, searchbar).  
+- Product Filtering: Menyaring restoran atau hidangan berdasarkan preferensi.  
   Section Profil
   
 Section Profile<br>
-Features:<br>
-- Journal Entry. User mengupload cerita terkait pengalaman mereka dengan beberapa tempat<br>
-- Link-link ke lokasi yang ada di journal entry and associated review/entry made by user at halaman produk toko.<br><br>
+Features:  
+- Journal Entry. User mengupload cerita terkait pengalaman mereka dengan beberapa tempat  
+- Link-link ke lokasi yang ada di journal entry and associated review/entry made by user at halaman produk toko.  
 
 Rincian regulasi aturan khusus:
 - Responsive Framework: Memastikan halaman dioptimalkan untuk semua perangkat.
